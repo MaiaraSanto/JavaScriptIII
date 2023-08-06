@@ -10,7 +10,7 @@
 
 Olá!
 
-Esta é nossa última atividade de código envolvendo Javascript III do módulo Básico.
+Esta é nossa última atividade de código envolvendo Javascript III do módulo Básico da StackX.
 
 ## Recursão
 
